@@ -1,0 +1,6 @@
+*.log
+*.json
+*.jsonl
+__pycache__/
+*.zip
+.cursor/
